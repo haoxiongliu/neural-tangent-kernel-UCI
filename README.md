@@ -21,3 +21,5 @@ Compare with other classifiers using results reported by "[Do we need hundreds o
 - http://persoal.citius.usc.es/manuel.fernandez.delgado/papers/jmlr/results.txt
 
 Details are listed in paper "[Harnessing the Power of Infinitely Wide Deep Nets on Small-data Tasks](https://arxiv.org/abs/1910.01663)".
+
+Modified by haoxiongliu.
